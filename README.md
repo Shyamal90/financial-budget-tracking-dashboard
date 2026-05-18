@@ -32,6 +32,7 @@ The finance team was facing difficulty in:
 - August and October exceeded the budget
 
 ## Screenshots
+<img width="1727" height="613" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/3104637a-59fd-45c8-8919-8ecab39c858a" />
 
 
 
